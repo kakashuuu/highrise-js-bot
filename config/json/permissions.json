@@ -1,0 +1,20 @@
+{
+  "permissions": [
+    {
+      "user_id": "55bb64735531104341039ca8",
+      "username": "iHsein",
+      "permissions": [
+        "print",
+        "teleport"
+      ]
+    },
+    {
+      "user_id": "5bd2e1d1c65f538af3b0b65f",
+      "username": "iiHsein",
+      "permissions": [
+        "print",
+        "teleport"
+      ]
+    }
+  ]
+}
