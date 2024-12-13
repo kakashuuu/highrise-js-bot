@@ -3,13 +3,13 @@ module.exports = {
     // The bot prefix;
     prefix: '/',
     // The bot ID, if you are not sure how to get that, start the bot with loggers.ready set to True
-    botId: 'change-me',
+    botId: '',
     // You bot name.
-    botName: 'change-me',
+    botName: 'Levi',
     // The owner of the bot.
-    ownerName: 'change-me',
+    ownerName: 'Laksh',
     // You room name (optional)
-    roomName: 'change-me',
+    roomName: 'knull',
     // The coordinates you want the bot to teleport to on start.
     coordinates: {
       x: 1.5,
@@ -103,6 +103,6 @@ module.exports = {
     // To obtain your token, visit https://highrise.game/ and log in. Then, go to the settings and create a new bot. Accept the terms and generate a token.
     // To obtain your room ID, go to the game and navigate to the top right corner where the player list is displayed. Click on "Share this room" and copy the ID.
     room: '675c357a922e6bc8ace1471a',
-    token: 'change-me'
+    token: '67473ea326de90b560dc2bfe'
   }
 }
